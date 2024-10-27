@@ -1,0 +1,7 @@
+input_path: "/home/ale/Desktop/test.pdf"
+dpi: 300
+format: "png"
+output_folder: "./converted_"
+start_page: 1
+end_page: 15
+dry_run: True
